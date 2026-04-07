@@ -3,7 +3,6 @@ import { Octokit } from '@octokit/action';
 import { LabelSet } from './label-set';
 import { OctokitPullRequest } from './util';
 
-// eslint-disable-next-line no-shadow
 export enum Labels {
 	Behind = 'behind',
 	HasConflict = 'conflict',

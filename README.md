@@ -4,10 +4,10 @@
 
 This action applies/removes labels to/from PRs to indicate their status like so:
 
-| Label     | Description                                      |
-| --------- | ------------------------------------------------ |
+| Label    | Description                                      |
+| -------- | ------------------------------------------------ |
 | conflict | Labeled PR is in conflict with its target branch |
-| behind    | Labeled PR is behind its target branch           |
+| behind   | Labeled PR is behind its target branch           |
 
 ## Inputs
 
